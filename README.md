@@ -1,26 +1,22 @@
 # 📞 Telecom Service Checker
 
-A Java exercise developed to practice input handling, conditional logic, and basic data processing.
+A simple **Java** project developed to practice input handling, conditional logic, and string processing.
 
-The program checks whether a specific customer has subscribed to a requested telecommunications service.
+The program checks whether a customer has a requested telecommunications service.
 
-## 🎯 Purpose
-
-A telecommunications provider offers four types of services:
+## 🚀 Features
 
 * 📱 Mobile
 * ☎️ Landline
 * 🌐 Broadband
 * 📺 Subscription TV
 
-The program receives a service to be checked and the customer's information, then determines whether the requested service is part of the customer's active services.
-
 ## 📥 Input
 
-The program receives two lines:
+The program receives:
 
-1. The name of the service to be checked.
-2. The customer's name followed by the services they have subscribed to, separated by commas.
+1. The service to check.
+2. The customer and their subscribed services.
 
 Example:
 
@@ -31,80 +27,54 @@ Alice,mobile,landline
 
 ## 📤 Output
 
-The program returns:
+```text
+Yes
+```
 
-* `Yes` if the customer has subscribed to the requested service.
-* `No` if the customer has not subscribed to the requested service.
-
-## 🧪 Examples
-
-| Service  | Customer                 | Expected Result |
-| -------- | ------------------------ | --------------- |
-| mobile   | Alice,mobile,landline    | Yes             |
-| landline | Bob,mobile,tv            | No              |
-| tv       | Carol,mobile,landline,tv | Yes             |
+Returns `Yes` when the customer has the requested service and `No` otherwise.
 
 ## 🛠️ Technologies
 
 * Java
 * Java I/O
-* Conditional Statements
 * String Processing
+* Conditional Statements
 * Git
 * GitHub
 
-## 📚 Learning Objectives
+## 🎯 Purpose
 
-This exercise was developed to practice:
-
-* Reading user input
-* Working with strings
-* Processing comma-separated data
-* Conditional statements
-* Logical comparison
-* Basic Java programming
-
-## 📈 In Development
-
-This repository is part of my Java learning journey and is developed during my free time.
-
-New exercises and projects will be added as I continue learning and practicing Java.
+A small project created to practice **Java programming** during my free time.
 
 ## 👨‍💻 Author
 
 **Rc692**
 
-This repository was created to document my progress while learning **Java and software development**.
-
 ---
 
-⭐ If you find this project useful for your studies, feel free to follow its progress.
+⭐ If you find this project useful, feel free to follow its progress.
 
 ---
 
 # 🇧🇷 Verificador de Serviços de Telecomunicações
 
-Exercício desenvolvido em **Java** para praticar entrada de dados, estruturas condicionais e processamento básico de informações.
+Um projeto simples desenvolvido em **Java** para praticar entrada de dados, estruturas condicionais e manipulação de Strings.
 
-O programa verifica se um determinado cliente possui um serviço de telecomunicações contratado.
+O programa verifica se um cliente possui determinado serviço de telecomunicações.
 
-## 🎯 Objetivo
-
-Uma empresa de telecomunicações oferece quatro tipos de serviços:
+## 🚀 Funcionalidades
 
 * 📱 Telefonia móvel
 * ☎️ Telefonia fixa
 * 🌐 Banda larga
 * 📺 TV por assinatura
 
-O programa recebe um serviço que deve ser verificado e as informações do cliente, determinando se o serviço solicitado faz parte dos serviços contratados.
-
 ## 📥 Entrada
 
-O programa recebe duas linhas:
+O programa recebe:
 
-1. O nome do serviço que deverá ser verificado.
-2. O nome do cliente seguido pelos serviços contratados, separados por vírgulas.
+1. O serviço que será verificado.
+2. O cliente e seus serviços contratados.
 
 Exemplo:
 
@@ -115,54 +85,32 @@ Alice,movel,fixa
 
 ## 📤 Saída
 
-O programa retorna:
+```text
+Sim
+```
 
-* `Sim` caso o cliente tenha contratado o serviço solicitado.
-* `Nao` caso o cliente não tenha contratado o serviço solicitado.
-
-## 🧪 Exemplos
-
-| Serviço | Cliente             | Resultado esperado |
-| ------- | ------------------- | ------------------ |
-| movel   | Alice,movel,fixa    | Sim                |
-| fixa    | Bob,movel,tv        | Nao                |
-| tv      | Carol,movel,fixa,tv | Sim                |
+Retorna `Sim` quando o cliente possui o serviço solicitado e `Nao` caso contrário.
 
 ## 🛠️ Tecnologias
 
 * Java
 * Java I/O
-* Estruturas condicionais
 * Manipulação de Strings
+* Estruturas condicionais
 * Git
 * GitHub
 
-## 📚 Objetivos de Aprendizado
+## 🎯 Objetivo
 
-Este exercício foi desenvolvido para praticar:
-
-* Leitura de entrada de dados
-* Manipulação de Strings
-* Processamento de dados separados por vírgulas
-* Estruturas condicionais
-* Comparações lógicas
-* Fundamentos da programação em Java
-
-## 📈 Em desenvolvimento
-
-Este repositório faz parte do meu processo de aprendizado em Java e é desenvolvido nas horas livres.
-
-Novos exercícios e projetos serão adicionados conforme novos conceitos forem estudados e praticados.
+Um pequeno projeto criado para praticar **programação em Java** nas minhas horas livres.
 
 ## 👨‍💻 Autor
 
 **Rc692**
 
-Este repositório foi criado para registrar minha evolução nos estudos de **Java e desenvolvimento de software**.
-
 ---
 
-⭐ Se este projeto for útil para seus estudos, fique à vontade para acompanhar sua evolução.
+⭐ Se este projeto for útil para você, fique à vontade para acompanhar sua evolução.
 
 ---
 
