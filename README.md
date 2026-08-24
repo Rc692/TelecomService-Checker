@@ -116,4 +116,4 @@ Um pequeno projeto criado para praticar **programação em Java** nas minhas hor
 
 ## 📄 License / Licença
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License: GPL-3.0](LICENSE).
